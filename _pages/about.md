@@ -16,10 +16,7 @@ Previously I was a tenure-track assistant professor at **UIUC**, and was a full-
 
 My recent interests include **theory and algorthms of large foundation models**, generative AI, learning-assisted optimization, neural-net compression, landscape of neural-nets and Adam. 
 Some representitave results:
-(a) LLM Training: 
-  --We explained why Adam converges faster than SGD on Transformers but not CNNs, using Hessian structure. 
-  --We provide a theoretical analysis why Hessian of neural nets exhibit nearly block diagonal structure, a fundamental property of neural nets. 
---I have written a survey "optimization for deep learning: an overview";
+(a) LLM Training. We explained why Adam converges faster than SGD on Transformers but not CNNs, using Hessian structure. We provide a theoretical analysis why Hessian of neural nets exhibit nearly block diagonal structure, a fundamental property of neural nets. I have written a survey "optimization for deep learning: an overview";
 (b) We provided one of the first geometrical analysis for non-convex matrix completion (paper in FOCS). 
 (c) We provided the convergence proof of un-modified Adam, which is probably the most popular algorithm in deep learning.  
 
