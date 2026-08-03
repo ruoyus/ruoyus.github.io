@@ -62,8 +62,10 @@ Research Interests
 
 **Selected works**
 ======
-* [On the global landscape of neural networks: an overview](https://arxiv.org/abs/2007.01429)
-* [Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926), NeurIPS 2020.
+* [Optimization for deep learning: theory and algorithms](http://arxiv.org/abs/1912.08957). (survey)
+* [Adam-mini: Use Fewer Learning Rates To Gain More](https://arxiv.org/abs/2406.16793). ICLR 2025.
+* [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505). ICML 2024.
+* [Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926). NeurIPS 2020.
 
 News
 ======
