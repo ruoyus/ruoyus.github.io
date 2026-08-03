@@ -21,10 +21,14 @@ author_profile: true
 
 
 - - -
-# Recent works on large language models:
+# Selected Works on Large Foundation Models:
 * [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505). Li, Z., Xu, T., Zhang, Y., Yu, Y., Sun, R., & Luo, Z. Q.  Accepted to ICML 2024. 
 
-* [AceGPT, Localizing Large Language Models in Arabic](https://arxiv.org/abs/2309.12053) Huang Huang, Fei Yu, Jianqing Zhu, Xuening Sun, Hao Cheng, Dingjie Song, Zhihong Chen, Abdulmohsen Alharthi, Bang An, Juncai He, Ziche Liu, Zhiyi Zhang, Junying Chen, Jianquan Li, Benyou Wang, Lian Zhang, Ruoyu Sun, Xiang Wan, Haizhou Li, Jinchao Xu. NAACL 2024. 
+* [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/abs/2407.20999), Yupeng Chen, Senmiao Wang, Yushun Zhang, Zhihang Lin, Haozhe Zhang, Weijian Sun, Tian Ding, Ruoyu Sun. TMLR 2025. 
+
+* [Adam-mini: Use Fewer Learning Rates To Gain More](https://arxiv.org/abs/2406.16793), Yushun Zhang, Congliang Chen, Ziniu Li, Tian Ding, Chenwei Wu, Diederik P. Kingma, Yinyu Ye, Zhi-Quan Luo, Ruoyu Sun. ICLR 2025. 
+
+* [Preserving Diversity in Supervised Fine-Tuning of Large Language Models](https://arxiv.org/abs/2408.16673), Ziniu Li, Congliang Chen, Tian Xu, Zeyu Qin, Jiancong Xiao, Zhi-Quan Luo, Ruoyu Sun. ICLR 2025. 
 
 # Selected Works
 *	[Adam Can Converge Without Any Modiﬁcation on Update Rules](https://arxiv.org/abs/2208.09632v1#:~:text=Under%20an%20extra%20condition%20%28strong%20growth%20condition%29%2C%20Adam,hyperparameters%20without%20any%20modification%20on%20its%20update%20rules.), Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun, Zhi-Quan Luo, NeurIPS 2022 **spotlight**.
