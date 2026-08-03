@@ -68,6 +68,18 @@ Research Interests
 
 News
 ======
+* Jun 2026: I gave a plenary talk at the [SIAM Conference on Optimization (OP26)](https://www.siam.org/conferences-events/siam-conferences/op26), Edinburgh, UK, on optimization for neural networks.
+
+* Fall 2025: Congratulations to my former intern Naichen Shi, who joined Northwestern University as an Assistant Professor!
+
+* Jul 2025: I gave a course "Optimization Theory and Algorithms for Large Models" at the Peking University Graduate Summer School on Applied Mathematics.
+
+* Jun 2025: I gave lectures on "Artificial Intelligence: Theory and Applications" at the Tsinghua University summer school (Yau Mathematical Sciences Center).
+
+* Apr 2025: Our paper [Adam-mini: Use Fewer Learning Rates To Gain More](https://arxiv.org/abs/2406.16793) was accepted to ICLR 2025. At the same conference, Diederik Kingma mentioned our work twice in his Test of Time Award talk on Adam: our proof that Adam converges without any modification on update rules, and Adam-mini.
+
+* 2024: Our paper [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505) was accepted to ICML 2024. ReMax is a REINFORCE-type method that, unlike PPO, does not need a value model; it is closely related to GRPO, but appeared on arXiv (Oct 2023) several months earlier than GRPO (Feb 2024).
+
 * May 2023: Our papers on learning to optimization, foresight pruning have appeared in ICLR 2023.
 
 * Oct 2022: Our papers on Adam, GAN, implicit bias and adversarial generalization are accepted to NeurIPS 2022. Three of them are selected as spotlight papers (~5% of >10,000 submissions). Congratulations to all! 
