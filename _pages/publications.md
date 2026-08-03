@@ -73,6 +73,31 @@ Some earlier works:
 PUBLICATIONS (by Time)
 ======
 $^+$: co-first author; $^{\*}$: corresponding author
+
+* [VCORE: Variance-Controlled Optimization-based Reweighting for Chain-of-Thought Supervision](https://arxiv.org/abs/2510.27462), Xuan Gong, Senmiao Wang, Hanbo Huang, Ruoyu Sun, Shiyu Liang. Accepted to ACL 2026. 
+
+* [Rethinking Data Mixture for Large Language Models: A Comprehensive Survey and New Perspectives](https://arxiv.org/abs/2505.21598), Yajiao Liu, Congliang Chen, Junchi Yang, Ruoyu Sun. Findings of EACL 2026. 
+
+* [Second Language (Arabic) Acquisition of LLMs via Progressive Vocabulary Expansion](https://arxiv.org/abs/2412.12310), Jianqing Zhu, Huang Huang, Zhihang Lin, Juhao Liang, Zhengyang Tang, Khalid Almubarak, Abdulmohsen Alharthi, Bang An, Juncai He, Xiangbo Wu, Fei Yu, Junying Chen, Zhuoheng Ma, Yuhao Du, He Zhang, Emad A. Alghamdi, Lian Zhang, Ruoyu Sun, Haizhou Li, Benyou Wang, Jinchao Xu. ACL 2025. 
+
+* [Adam-mini: Use Fewer Learning Rates To Gain More](https://arxiv.org/abs/2406.16793), Yushun Zhang, Congliang Chen, Ziniu Li, Tian Ding, Chenwei Wu, Diederik P. Kingma, Yinyu Ye, Zhi-Quan Luo, Ruoyu Sun. ICLR 2025. 
+
+* [Preserving Diversity in Supervised Fine-Tuning of Large Language Models](https://arxiv.org/abs/2408.16673), Ziniu Li, Congliang Chen, Tian Xu, Zeyu Qin, Jiancong Xiao, Zhi-Quan Luo, Ruoyu Sun. ICLR 2025. 
+
+* Towards Explaining the Power of Constant-depth Graph Neural Networks for Structured Linear Programming, Qian Li, Minghui Ouyang, Tian Ding, Yuyi Wang, Qingjiang Shi, Ruoyu Sun. ICLR 2025. 
+
+* [When GNNs meet symmetry in ILPs: an orbit-based feature augmentation approach](https://arxiv.org/abs/2501.14211), Qian Chen, Lei Li, Qian Li, Jianghua Wu, Akang Wang, Ruoyu Sun, Xiaodong Luo, Tsung-Hui Chang, Qingjiang Shi. ICLR 2025. 
+
+* [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/abs/2407.20999), Yupeng Chen, Senmiao Wang, Yushun Zhang, Zhihang Lin, Haozhe Zhang, Weijian Sun, Tian Ding, Ruoyu Sun. TMLR 2025. 
+
+* [Exploring and Improving Initialization for Deep Graph Neural Networks: A Signal Propagation Perspective](https://arxiv.org/abs/2506.16790), Senmiao Wang, Yupeng Chen, Yushun Zhang, Ruoyu Sun, Tian Ding. TMLR 2025. 
+
+* [On Representing Convex Quadratically Constrained Quadratic Programs via Graph Neural Networks](https://arxiv.org/abs/2411.13805), Chenyang Wu, Qian Chen, Akang Wang, Tian Ding, Ruoyu Sun, Wenguo Yang, Qingjiang Shi. TMLR 2025. 
+
+* [Why Transformers Need Adam: A Hessian Perspective](https://arxiv.org/abs/2402.16788), Yushun Zhang, Congliang Chen, Tian Ding, Ziniu Li, Ruoyu Sun, Zhi-Quan Luo. NeurIPS 2024. 
+
+* [Provable Adaptivity of Adam under Non-uniform Smoothness](https://arxiv.org/abs/2208.09900), Bohan Wang, Yushun Zhang, Huishuai Zhang, Qi Meng, Ruoyu Sun, Zhi-Ming Ma, Tie-Yan Liu, Zhi-Quan Luo, Wei Chen. KDD 2024. 
+
 * Bridging the Gap: Rademacher Complexity in Robust and Standard Generalization, Jiancong Xiao, Ruoyu Sun, Zhi-Quan Luo. Accepted to COLT 2024. 
 
 * PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming. Bingheng Li, Linxin Yang, Yupeng Chen, 
