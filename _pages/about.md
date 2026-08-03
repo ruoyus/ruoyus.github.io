@@ -55,11 +55,10 @@ Education
 
 Research Interests
 ======
-* **Large language models**: theory, fine-tuning, compression, optimization algorithm, domain-specific application
-* **Optimization for deep learning**: lanscape analysis of neural-nets, GANs, Adam, adversarial robustness, etc.
-* **Non-convex optimization for machine learning**: neural networks, matrix factorization, etc.
-* **Large-scale optimization**: ADMM, coordinate descent, adaptive gradient methods, etc.
-* Other research interests: Information theory and wireless communications, such as interference alignment and base station association.
+* **Algorithms for Large foundation models**: pretraining algorithms, post-training and RL algorithms, self-improvement and continual learning, etc.
+* **Optimization theory for deep learning**: lanscape analysis, Hessian structure, Adam, muon, etc.
+* **LLM for modeling**: LLM for OR modeling, LLM for network modeling, etc.  
+* **Other research interests**: Non-convex optimization for machine learning; Large-scale optimization, e.g., ADMM, coordinate descent; GANs, Adversarial robustness; Information theory and wireless communications, such as interference alignment and base station association.
 
 **Selected works**
 ======
