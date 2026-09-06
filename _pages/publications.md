@@ -73,7 +73,8 @@ PREPRINTS
 ======
 * [PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training](https://arxiv.org/abs/2606.06470), Senmiao Wang, Tiantian Fang, Haoran Zhang, Yushun Zhang, Kunxiang Zhao, Alex Schwing, Ruoyu Sun. [[slides](/files/Slides_PC_layer_BIRS_2026.pdf)]
 
-Some earlier works: 
+* [A Geometric Characterization of the Stationary Plateau for Two-Layer Neural Networks](https://arxiv.org/abs/2606.04327), Tian Ding, Dawei Li, Ruoyu Sun.
+
 * [DEED: A General Quantization Scheme for Communication Efficiency in Bits](https://arxiv.org/abs/2006.11401), Tian Ye, Peijun Xiao, Ruoyu Sun.
 * [Achieving Small Test Error in Mildly Overparameterized Neural Networks](https://arxiv.org/abs/2104.11895) S Liang, R Sun, R Srikant.
 
