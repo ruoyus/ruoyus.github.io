@@ -69,7 +69,7 @@ Research Interests
 
 News
 ======
-* Jun 2026: I gave a plenary talk at the [SIAM Conference on Optimization (OP26)](https://www.siam.org/conferences-events/siam-conferences/op26), Edinburgh, UK, on optimization for neural networks.
+* Jun 2026: I gave a plenary talk at the [SIAM Conference on Optimization (OP26)](https://www.siam.org/conferences-events/siam-conferences/op26), Edinburgh, UK, on optimization for neural networks [[slides](/files/Slides_SIAM_OP26_plenary_2026.pdf)].
 
 * Fall 2025: Congratulations to my former intern Naichen Shi, who joined Northwestern University as an Assistant Professor!
 

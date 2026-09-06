@@ -59,6 +59,8 @@ Honorable mention, 2015 INFORMS Optimization Society student paper prize.([prize
 
 TALK SLIDES
 ======
+Optimization for neural networks: plenary talk at SIAM Conference on Optimization (OP26), Edinburgh, 2026 [[slides](/files/Slides_SIAM_OP26_plenary_2026.pdf)]
+
 Towards Better Global landscape of GANs: How 2 Lines of Code Change Makes Difference [[slides](
 https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscape_2020.pdf)]
 
