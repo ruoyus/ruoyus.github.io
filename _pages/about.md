@@ -69,6 +69,8 @@ Research Interests
 
 News
 ======
+* Sep 2026: Our paper "PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training" is now available on [arXiv](https://arxiv.org/abs/2606.06470). [[slides](/files/Slides_PC_layer_BIRS_2026.pdf)]
+
 * Jun 2026: I gave a plenary talk at the [SIAM Conference on Optimization (OP26)](https://www.siam.org/conferences-events/siam-conferences/op26), Edinburgh, UK, on optimization for neural networks [[slides](/files/Slides_SIAM_OP26_plenary_2026.pdf)].
 
 * Fall 2025: Congratulations to my former intern Naichen Shi, who joined Northwestern University as an Assistant Professor!
