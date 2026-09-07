@@ -22,7 +22,7 @@ author_profile: true
 
 - - -
 # Selected Works on Large Foundation Models:
-* [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505). Li, Z., Xu, T., Zhang, Y., Yu, Y., Sun, R., & Luo, Z. Q.  Accepted to ICML 2024. 
+* [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505). Li, Z., Xu, T., Zhang, Y., Yu, Y., Sun, R., & Luo, Z. Q.  ICML 2024. 
 
 * [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/abs/2407.20999), Yupeng Chen, Senmiao Wang, Yushun Zhang, Zhihang Lin, Haozhe Zhang, Weijian Sun, Tian Ding, Ruoyu Sun. TMLR 2025. 
 
@@ -103,9 +103,9 @@ PUBLICATIONS (by Time)
 ======
 $^+$: co-first author; $^{\*}$: corresponding author
 
-* [Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation](https://arxiv.org/abs/2509.25849), Ziniu Li, Congliang Chen, Tianyun Yang, Tian Ding, Ruoyu Sun, Ge Zhang, Wenhao Huang, Zhi-Quan Luo. Accepted to ICML 2026.
+* [Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation](https://arxiv.org/abs/2509.25849), Ziniu Li, Congliang Chen, Tianyun Yang, Tian Ding, Ruoyu Sun, Ge Zhang, Wenhao Huang, Zhi-Quan Luo. ICML 2026.
 
-* [VCORE: Variance-Controlled Optimization-based Reweighting for Chain-of-Thought Supervision](https://arxiv.org/abs/2510.27462), Xuan Gong, Senmiao Wang, Hanbo Huang, Ruoyu Sun, Shiyu Liang. Accepted to ACL 2026. 
+* [VCORE: Variance-Controlled Optimization-based Reweighting for Chain-of-Thought Supervision](https://arxiv.org/abs/2510.27462), Xuan Gong, Senmiao Wang, Hanbo Huang, Ruoyu Sun, Shiyu Liang. ACL 2026. 
 
 * [Rethinking Data Mixture for Large Language Models: A Comprehensive Survey and New Perspectives](https://arxiv.org/abs/2505.21598), Yajiao Liu, Congliang Chen, Junchi Yang, Ruoyu Sun. Findings of EACL 2026. 
 
@@ -137,14 +137,14 @@ $^+$: co-first author; $^{\*}$: corresponding author
 
 * [Provable Adaptivity of Adam under Non-uniform Smoothness](https://arxiv.org/abs/2208.09900), Bohan Wang, Yushun Zhang, Huishuai Zhang, Qi Meng, Ruoyu Sun, Zhi-Ming Ma, Tie-Yan Liu, Zhi-Quan Luo, Wei Chen. KDD 2024. 
 
-* Bridging the Gap: Rademacher Complexity in Robust and Standard Generalization, Jiancong Xiao, Ruoyu Sun, Zhi-Quan Luo. Accepted to COLT 2024. 
+* Bridging the Gap: Rademacher Complexity in Robust and Standard Generalization, Jiancong Xiao, Ruoyu Sun, Zhi-Quan Luo. COLT 2024. 
 
 * PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming. Bingheng Li, Linxin Yang, Yupeng Chen, 
-Senmiao Wang, Qian Chen, Haitao Mao, Yao Ma, Akang Wang, Tian Ding, Jiliang Tang, Ruoyu Sun$^{\*}$. Accepted to ICML 2024.
+Senmiao Wang, Qian Chen, Haitao Mao, Yao Ma, Akang Wang, Tian Ding, Jiliang Tang, Ruoyu Sun$^{\*}$. ICML 2024.
 
-* [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505). Li, Z., Xu, T., Zhang, Y., Yu, Y., Sun, R., & Luo, Z. Q.  Accepted to ICML 2024.
+* [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505). Li, Z., Xu, T., Zhang, Y., Yu, Y., Sun, R., & Luo, Z. Q.  ICML 2024.
 
-* How Graph Neural Networks Learn: Lessons from Training Dynamics, Chenxiao Yang, Qitian Wu, David Wipf, Ruoyu Sun, Junchi Yan, Accepted to ICML 2024. 
+* How Graph Neural Networks Learn: Lessons from Training Dynamics, Chenxiao Yang, Qitian Wu, David Wipf, Ruoyu Sun, Junchi Yan, ICML 2024. 
 
 * [AceGPT, Localizing Large Language Models in Arabic](https://arxiv.org/abs/2309.12053) Huang Huang, Fei Yu, Jianqing Zhu, Xuening Sun, Hao Cheng, Dingjie Song, Zhihong Chen, Abdulmohsen Alharthi, Bang An, Juncai He, Ziche Liu, Zhiyi Zhang, Junying Chen, Jianquan Li, Benyou Wang, Lian Zhang, Ruoyu Sun, Xiang Wan, Haizhou Li, Jinchao Xu. NAACL 2024. 
 
