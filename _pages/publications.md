@@ -22,9 +22,9 @@ author_profile: true
 
 - - -
 # Selected Works on Large Foundation Models:
-* [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505). Li, Z., Xu, T., Zhang, Y., Yu, Y., Sun, R., & Luo, Z. Q.  ICML 2024. 
+* [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505). Ziniu Li, Tian Xu, Yushun Zhang, Zhihang Lin, Yang Yu$^{*}$ , Ruoyu Sun$^{*}$ , Zhi-Quan Luo. ICML 2024. 
 
-* [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/abs/2407.20999), Yupeng Chen, Senmiao Wang, Yushun Zhang, Zhihang Lin, Haozhe Zhang, Weijian Sun, Tian Ding, Ruoyu Sun. TMLR 2025. Received the TMLR **J2C Certification** (awarded to about 10% of TMLR papers) and was presented at ICML 2026, Seoul, Korea. 
+* [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/abs/2407.20999), Yupeng Chen, Senmiao Wang$^{*}$ , Yushun Zhang, Zhihang Lin, Haozhe Zhang, Weijian Sun, Tian Ding, Ruoyu Sun$^{*}$ . TMLR 2025. Received the TMLR **J2C Certification** (awarded to about 10% of TMLR papers) and was presented at ICML 2026, Seoul, Korea. 
 
 * [Adam-mini: Use Fewer Learning Rates To Gain More](https://arxiv.org/abs/2406.16793), Yushun Zhang, Congliang Chen, Ziniu Li, Tian Ding, Chenwei Wu, Diederik P. Kingma, Yinyu Ye, Zhi-Quan Luo, Ruoyu Sun. ICLR 2025. 
 
@@ -77,7 +77,7 @@ PREPRINTS
 
 * [QK-Normed MLA: QK normalization without full key caching](https://arxiv.org/abs/2606.16310), Yizhou Han, Yao Zhao, Jun Zhou, Longfei Li, Ruoyu Sun.
 
-* [PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training](https://arxiv.org/abs/2606.06470), Senmiao Wang, Tiantian Fang, Haoran Zhang, Yushun Zhang, Kunxiang Zhao, Alex Schwing, Ruoyu Sun. [[slides](/files/Slides_PC_layer_BIRS_2026.pdf)]
+* [PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training](https://arxiv.org/abs/2606.06470), Senmiao Wang, Tiantian Fang, Haoran Zhang, Yushun Zhang, Kunxiang Zhao, Alex Schwing, Ruoyu Sun$^{*}$ . [[slides](/files/Slides_PC_layer_BIRS_2026.pdf)]
 
 * [A Geometric Characterization of the Stationary Plateau for Two-Layer Neural Networks](https://arxiv.org/abs/2606.04327), Tian Ding, Dawei Li, Ruoyu Sun.
 
@@ -89,7 +89,7 @@ PREPRINTS
 
 * [Towards Quantifying the Hessian Structure of Neural Networks](https://arxiv.org/abs/2505.02809), Zhaorui Dong, Yushun Zhang, Jianfeng Yao, Ruoyu Sun.
 
-* [RealCritic: Towards Effectiveness-Driven Evaluation of Language Model Critiques](https://arxiv.org/abs/2501.14492), Zhengyang Tang, Ziniu Li, Zhenyang Xiao, Tian Ding, Ruoyu Sun, Benyou Wang, Dayiheng Liu, Fei Huang, Tianyu Liu, Bowen Yu, Junyang Lin.
+* [RealCritic: Towards Effectiveness-Driven Evaluation of Language Model Critiques](https://arxiv.org/abs/2501.14492), Zhengyang Tang, Ziniu Li, Zhenyang Xiao, Tian Ding$^{*}$ , Ruoyu Sun, Benyou Wang$^{*}$ , Dayiheng Liu$^{*}$ , Fei Huang, Tianyu Liu, Bowen Yu, Junyang Lin.
 
 * [An Efficient Unsupervised Framework for Convex Quadratic Programs via Deep Unrolling](https://arxiv.org/abs/2412.01051), Linxin Yang, Bingheng Li, Tian Ding, Jianghua Wu, Akang Wang, Yuyi Wang, Jiliang Tang, Ruoyu Sun, Xiaodong Luo.
 
@@ -103,15 +103,15 @@ $^+$: co-first author; $^{\*}$: corresponding author
 
 * [Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation](https://arxiv.org/abs/2509.25849), Ziniu Li, Congliang Chen, Tianyun Yang, Tian Ding, Ruoyu Sun, Ge Zhang, Wenhao Huang, Zhi-Quan Luo. ICML 2026.
 
-* [VCORE: Variance-Controlled Optimization-based Reweighting for Chain-of-Thought Supervision](https://arxiv.org/abs/2510.27462), Xuan Gong, Senmiao Wang, Hanbo Huang, Ruoyu Sun, Shiyu Liang. ACL 2026. 
+* [VCORE: Variance-Controlled Optimization-based Reweighting for Chain-of-Thought Supervision](https://arxiv.org/abs/2510.27462), Xuan Gong, Senmiao Wang, Hanbo Huang, Ruoyu Sun, Shiyu Liang$^{*}$ . ACL 2026. 
 
-* [Rethinking Data Mixture for Large Language Models: A Comprehensive Survey and New Perspectives](https://arxiv.org/abs/2505.21598), Yajiao Liu, Congliang Chen, Junchi Yang, Ruoyu Sun. Findings of EACL 2026.
+* [Rethinking Data Mixture for Large Language Models: A Comprehensive Survey and New Perspectives](https://arxiv.org/abs/2505.21598), Yajiao Liu, Congliang Chen, Junchi Yang, Ruoyu Sun$^{*}$ . Findings of EACL 2026.
 
 * [Review of Reinforcement Learning for Large Language Models: Formulations, Algorithms, and Opportunities](http://www.liziniu.org/docs/RL4LLM_Survey.pdf), Ziniu Li, Pengyuan Wang, Tian Xu, Tian Ding, Ruoyu Sun, Yang Yu. TMLR 2026.
 
 * [On a Faster R-Linear Convergence Rate of the Barzilai-Borwein Method](https://arxiv.org/abs/2101.00205), Dawei Li, Ruoyu Sun. JCM (Journal of Computational Mathematics) 2026. 
 
-* [Teaching Language Models to Reason with Tools](https://arxiv.org/abs/2510.20342), Chengpeng Li, Zhengyang Tang, Ziniu Li, Mingfeng Xue, Keqin Bao, Tian Ding, Ruoyu Sun, Benyou Wang, Xiang Wang, Junyang Lin, Dayiheng Liu. NeurIPS 2025.
+* [Teaching Language Models to Reason with Tools](https://arxiv.org/abs/2510.20342), Chengpeng Li, Zhengyang Tang, Ziniu Li, Mingfeng Xue, Keqin Bao, Tian Ding, Ruoyu Sun, Benyou Wang, Xiang Wang, Junyang Lin, Dayiheng Liu$^{*}$ . NeurIPS 2025.
 
 * [A Middle Path for On-Premises LLM Deployment: Preserving Privacy Without Sacrificing Model Confidentiality](https://arxiv.org/abs/2410.11182), Hanbo Huang, Yihan Li, Bowen Jiang, Bo Jiang, Lin Liu, Ruoyu Sun, Zhuotao Liu, Shiyu Liang. EMNLP 2025.
 
@@ -125,15 +125,15 @@ $^+$: co-first author; $^{\*}$: corresponding author
 
 * [When GNNs meet symmetry in ILPs: an orbit-based feature augmentation approach](https://arxiv.org/abs/2501.14211), Qian Chen, Lei Li, Qian Li, Jianghua Wu, Akang Wang, Ruoyu Sun, Xiaodong Luo, Tsung-Hui Chang, Qingjiang Shi. ICLR 2025. 
 
-* [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/abs/2407.20999), Yupeng Chen, Senmiao Wang, Yushun Zhang, Zhihang Lin, Haozhe Zhang, Weijian Sun, Tian Ding, Ruoyu Sun. TMLR 2025. Received the TMLR **J2C Certification** (awarded to about 10% of TMLR papers) and was presented at ICML 2026, Seoul, Korea. 
+* [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/abs/2407.20999), Yupeng Chen, Senmiao Wang$^{*}$ , Yushun Zhang, Zhihang Lin, Haozhe Zhang, Weijian Sun, Tian Ding, Ruoyu Sun$^{*}$ . TMLR 2025. Received the TMLR **J2C Certification** (awarded to about 10% of TMLR papers) and was presented at ICML 2026, Seoul, Korea. 
 
 * [Exploring and Improving Initialization for Deep Graph Neural Networks: A Signal Propagation Perspective](https://arxiv.org/abs/2506.16790), Senmiao Wang, Yupeng Chen, Yushun Zhang, Ruoyu Sun, Tian Ding. TMLR 2025. 
 
 * [On Representing Convex Quadratically Constrained Quadratic Programs via Graph Neural Networks](https://arxiv.org/abs/2411.13805), Chenyang Wu, Qian Chen, Akang Wang, Tian Ding, Ruoyu Sun, Wenguo Yang, Qingjiang Shi. TMLR 2025.
 
-* [Bridging Formal Language with Chain-of-Thought Reasoning to Geometry Problem Solving](https://arxiv.org/abs/2508.09099), Tianyun Yang, Yunwen Li, Ziniu Li, Zhihang Lin, Ruoyu Sun, Tian Ding. TMLR 2026. 
+* [Bridging Formal Language with Chain-of-Thought Reasoning to Geometry Problem Solving](https://arxiv.org/abs/2508.09099), Tianyun Yang, Yunwen Li, Ziniu Li, Zhihang Lin, Ruoyu Sun, Tian Ding$^{*}$ . TMLR 2026. 
 
-* [SymILO: A Symmetry-Aware Learning Framework for Integer Linear Optimization](https://arxiv.org/abs/2409.19678), Qian Chen, Tianjian Zhang, Linxin Yang, Qingyu Han, Akang Wang, Ruoyu Sun, Xiaodong Luo, Tsung-Hui Chang. NeurIPS 2024.
+* [SymILO: A Symmetry-Aware Learning Framework for Integer Linear Optimization](https://arxiv.org/abs/2409.19678), Qian Chen, Tianjian Zhang, Linxin Yang, Qingyu Han, Akang Wang$^{*}$ , Ruoyu Sun, Xiaodong Luo, Tsung-Hui Chang. NeurIPS 2024.
 
 * [Why Transformers Need Adam: A Hessian Perspective](https://arxiv.org/abs/2402.16788), Yushun Zhang, Congliang Chen, Tian Ding, Ziniu Li, Ruoyu Sun, Zhi-Quan Luo. NeurIPS 2024. 
 
@@ -144,7 +144,7 @@ $^+$: co-first author; $^{\*}$: corresponding author
 * PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming. Bingheng Li, Linxin Yang, Yupeng Chen, 
 Senmiao Wang, Qian Chen, Haitao Mao, Yao Ma, Akang Wang, Tian Ding, Jiliang Tang, Ruoyu Sun$^{\*}$. ICML 2024.
 
-* [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505). Li, Z., Xu, T., Zhang, Y., Yu, Y., Sun, R., & Luo, Z. Q.  ICML 2024.
+* [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505). Ziniu Li, Tian Xu, Yushun Zhang, Zhihang Lin, Yang Yu$^{*}$ , Ruoyu Sun$^{*}$ , Zhi-Quan Luo. ICML 2024.
 
 * How Graph Neural Networks Learn: Lessons from Training Dynamics, Chenxiao Yang, Qitian Wu, David Wipf, Ruoyu Sun, Junchi Yan, ICML 2024. 
 
@@ -162,7 +162,7 @@ Qingyu Han $^+$, Linxin Yang $^+$, Qian Chen, Xiang Zhou, Dong Zhang, Akang Wang
 
 * [NTK-SAP: Improving neural network pruning by aligning training dynamics](https://openreview.net/forum?id=-5EWhW_4qWP) Yite Wang, Dawei Li, Ruoyu Sun. ICLR 2023
 
-* [Adversarial Rademacher Complexity of Deep Neural Networks](https://arxiv.org/abs/2211.14966), Jiancong Xiao, Yanbo Fan, Ruoyu Sun, Zhi-Quan Luo. Accepted to JMLR (Journal of Machine Learning Research).
+* [Adversarial Rademacher Complexity of Deep Neural Networks](https://arxiv.org/abs/2211.14966), Jiancong Xiao, Yanbo Fan$^{*}$ , Ruoyu Sun$^{*}$ , Zhi-Quan Luo. Accepted to JMLR (Journal of Machine Learning Research).
 
 *	[Adam Can Converge Without Any Modiﬁcation on Update Rules](https://arxiv.org/abs/2208.09632v1#:~:text=Under%20an%20extra%20condition%20%28strong%20growth%20condition%29%2C%20Adam,hyperparameters%20without%20any%20modification%20on%20its%20update%20rules.), Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun $^*$, Zhi-Quan Luo, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
 
