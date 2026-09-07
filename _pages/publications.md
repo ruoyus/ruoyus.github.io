@@ -24,7 +24,7 @@ author_profile: true
 # Selected Works on Large Foundation Models:
 * [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505). Li, Z., Xu, T., Zhang, Y., Yu, Y., Sun, R., & Luo, Z. Q.  ICML 2024. 
 
-* [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/abs/2407.20999), Yupeng Chen, Senmiao Wang, Yushun Zhang, Zhihang Lin, Haozhe Zhang, Weijian Sun, Tian Ding, Ruoyu Sun. TMLR 2025. 
+* [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/abs/2407.20999), Yupeng Chen, Senmiao Wang, Yushun Zhang, Zhihang Lin, Haozhe Zhang, Weijian Sun, Tian Ding, Ruoyu Sun. TMLR 2025. Received the TMLR **J2C Certification** (awarded to about 10% of TMLR papers) and was presented at ICML 2026, Seoul, Korea. 
 
 * [Adam-mini: Use Fewer Learning Rates To Gain More](https://arxiv.org/abs/2406.16793), Yushun Zhang, Congliang Chen, Ziniu Li, Tian Ding, Chenwei Wu, Diederik P. Kingma, Yinyu Ye, Zhi-Quan Luo, Ruoyu Sun. ICLR 2025. 
 
@@ -125,7 +125,7 @@ $^+$: co-first author; $^{\*}$: corresponding author
 
 * [When GNNs meet symmetry in ILPs: an orbit-based feature augmentation approach](https://arxiv.org/abs/2501.14211), Qian Chen, Lei Li, Qian Li, Jianghua Wu, Akang Wang, Ruoyu Sun, Xiaodong Luo, Tsung-Hui Chang, Qingjiang Shi. ICLR 2025. 
 
-* [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/abs/2407.20999), Yupeng Chen, Senmiao Wang, Yushun Zhang, Zhihang Lin, Haozhe Zhang, Weijian Sun, Tian Ding, Ruoyu Sun. TMLR 2025. 
+* [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/abs/2407.20999), Yupeng Chen, Senmiao Wang, Yushun Zhang, Zhihang Lin, Haozhe Zhang, Weijian Sun, Tian Ding, Ruoyu Sun. TMLR 2025. Received the TMLR **J2C Certification** (awarded to about 10% of TMLR papers) and was presented at ICML 2026, Seoul, Korea. 
 
 * [Exploring and Improving Initialization for Deep Graph Neural Networks: A Signal Propagation Perspective](https://arxiv.org/abs/2506.16790), Senmiao Wang, Yupeng Chen, Yushun Zhang, Ruoyu Sun, Tian Ding. TMLR 2025. 
 
