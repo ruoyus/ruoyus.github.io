@@ -91,8 +91,6 @@ PREPRINTS
 
 * [Feature Augmentation of GNNs for ILPs: Local Uniqueness Suffices](https://arxiv.org/abs/2509.21000), Qingyu Han, Qian Li, Linxin Yang, Qian Chen, Qingjiang Shi, Ruoyu Sun.
 
-* [CoRT: Code-integrated Reasoning within Thinking](https://arxiv.org/abs/2506.09820), Chengpeng Li, Zhengyang Tang, Ziniu Li, Mingfeng Xue, Keqin Bao, Tian Ding, Ruoyu Sun, Benyou Wang, Xiang Wang, Junyang Lin, Dayiheng Liu.
-
 * [Towards Quantifying the Hessian Structure of Neural Networks](https://arxiv.org/abs/2505.02809), Zhaorui Dong, Yushun Zhang, Jianfeng Yao, Ruoyu Sun.
 
 * [RealCritic: Towards Effectiveness-Driven Evaluation of Language Model Critiques](https://arxiv.org/abs/2501.14492), Zhengyang Tang, Ziniu Li, Zhenyang Xiao, Tian Ding, Ruoyu Sun, Benyou Wang, Dayiheng Liu, Fei Huang, Tianyu Liu, Bowen Yu, Junyang Lin.
@@ -106,6 +104,8 @@ PREPRINTS
 PUBLICATIONS (by Time)
 ======
 $^+$: co-first author; $^{\*}$: corresponding author
+
+* [Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation](https://arxiv.org/abs/2509.25849), Ziniu Li, Congliang Chen, Tianyun Yang, Tian Ding, Ruoyu Sun, Ge Zhang, Wenhao Huang, Zhi-Quan Luo. Accepted to ICML 2026.
 
 * [VCORE: Variance-Controlled Optimization-based Reweighting for Chain-of-Thought Supervision](https://arxiv.org/abs/2510.27462), Xuan Gong, Senmiao Wang, Hanbo Huang, Ruoyu Sun, Shiyu Liang. Accepted to ACL 2026. 
 
