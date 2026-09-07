@@ -107,7 +107,9 @@ $^+$: co-first author; $^{\*}$: corresponding author
 
 * [VCORE: Variance-Controlled Optimization-based Reweighting for Chain-of-Thought Supervision](https://arxiv.org/abs/2510.27462), Xuan Gong, Senmiao Wang, Hanbo Huang, Ruoyu Sun, Shiyu Liang. ACL 2026. 
 
-* [Rethinking Data Mixture for Large Language Models: A Comprehensive Survey and New Perspectives](https://arxiv.org/abs/2505.21598), Yajiao Liu, Congliang Chen, Junchi Yang, Ruoyu Sun. Findings of EACL 2026. 
+* [Rethinking Data Mixture for Large Language Models: A Comprehensive Survey and New Perspectives](https://arxiv.org/abs/2505.21598), Yajiao Liu, Congliang Chen, Junchi Yang, Ruoyu Sun. Findings of EACL 2026.
+
+* [Review of Reinforcement Learning for Large Language Models: Formulations, Algorithms, and Opportunities](http://www.liziniu.org/docs/RL4LLM_Survey.pdf), Ziniu Li, Pengyuan Wang, Tian Xu, Tian Ding, Ruoyu Sun, Yang Yu. TMLR 2026. 
 
 * [Teaching Language Models to Reason with Tools](https://arxiv.org/abs/2510.20342), Chengpeng Li, Zhengyang Tang, Ziniu Li, Mingfeng Xue, Keqin Bao, Tian Ding, Ruoyu Sun, Benyou Wang, Xiang Wang, Junyang Lin, Dayiheng Liu. NeurIPS 2025.
 
@@ -129,7 +131,7 @@ $^+$: co-first author; $^{\*}$: corresponding author
 
 * [On Representing Convex Quadratically Constrained Quadratic Programs via Graph Neural Networks](https://arxiv.org/abs/2411.13805), Chenyang Wu, Qian Chen, Akang Wang, Tian Ding, Ruoyu Sun, Wenguo Yang, Qingjiang Shi. TMLR 2025.
 
-* [Bridging Formal Language with Chain-of-Thought Reasoning to Geometry Problem Solving](https://arxiv.org/abs/2508.09099), Tianyun Yang, Yunwen Li, Ziniu Li, Zhihang Lin, Ruoyu Sun, Tian Ding. TMLR. 
+* [Bridging Formal Language with Chain-of-Thought Reasoning to Geometry Problem Solving](https://arxiv.org/abs/2508.09099), Tianyun Yang, Yunwen Li, Ziniu Li, Zhihang Lin, Ruoyu Sun, Tian Ding. TMLR 2026. 
 
 * [SymILO: A Symmetry-Aware Learning Framework for Integer Linear Optimization](https://arxiv.org/abs/2409.19678), Qian Chen, Tianjian Zhang, Linxin Yang, Qingyu Han, Akang Wang, Ruoyu Sun, Xiaodong Luo, Tsung-Hui Chang. NeurIPS 2024.
 
