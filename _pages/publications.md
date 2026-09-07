@@ -87,8 +87,6 @@ PREPRINTS
 
 * [A Model Can Help Itself: Reward-Free Self-Training for LLM Reasoning](https://arxiv.org/abs/2510.18814), Mengqi Li, Lei Zhao, Anthony Man-Cho So, Ruoyu Sun, Xiao Li.
 
-* [Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation](https://arxiv.org/abs/2509.25849), Ziniu Li, Congliang Chen, Tianyun Yang, Tian Ding, Ruoyu Sun, Ge Zhang, Wenhao Huang, Zhi-Quan Luo.
-
 * [Feature Augmentation of GNNs for ILPs: Local Uniqueness Suffices](https://arxiv.org/abs/2509.21000), Qingyu Han, Qian Li, Linxin Yang, Qian Chen, Qingjiang Shi, Ruoyu Sun.
 
 * [Towards Quantifying the Hessian Structure of Neural Networks](https://arxiv.org/abs/2505.02809), Zhaorui Dong, Yushun Zhang, Jianfeng Yao, Ruoyu Sun.
