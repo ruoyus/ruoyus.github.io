@@ -101,8 +101,6 @@ PREPRINTS
 
 * [SymILO: A Symmetry-Aware Learning Framework for Integer Linear Optimization](https://arxiv.org/abs/2409.19678), Qian Chen, Tianjian Zhang, Linxin Yang, Qingyu Han, Akang Wang, Ruoyu Sun, Xiaodong Luo, Tsung-Hui Chang.
 
-* [Invariant Layers for Graphs with Nodes of Different Types](https://arxiv.org/abs/2302.13551), Dmitry Rybin, Ruoyu Sun, Zhi-Quan Luo.
-
 * [Adversarial Rademacher Complexity of Deep Neural Networks](https://arxiv.org/abs/2211.14966), Jiancong Xiao, Yanbo Fan, Ruoyu Sun, Zhi-Quan Luo.
 
 * [DEED: A General Quantization Scheme for Communication Efficiency in Bits](https://arxiv.org/abs/2006.11401), Tian Ye, Peijun Xiao, Ruoyu Sun.
