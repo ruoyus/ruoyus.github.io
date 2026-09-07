@@ -109,7 +109,9 @@ $^+$: co-first author; $^{\*}$: corresponding author
 
 * [Rethinking Data Mixture for Large Language Models: A Comprehensive Survey and New Perspectives](https://arxiv.org/abs/2505.21598), Yajiao Liu, Congliang Chen, Junchi Yang, Ruoyu Sun. Findings of EACL 2026.
 
-* [Review of Reinforcement Learning for Large Language Models: Formulations, Algorithms, and Opportunities](http://www.liziniu.org/docs/RL4LLM_Survey.pdf), Ziniu Li, Pengyuan Wang, Tian Xu, Tian Ding, Ruoyu Sun, Yang Yu. TMLR 2026. 
+* [Review of Reinforcement Learning for Large Language Models: Formulations, Algorithms, and Opportunities](http://www.liziniu.org/docs/RL4LLM_Survey.pdf), Ziniu Li, Pengyuan Wang, Tian Xu, Tian Ding, Ruoyu Sun, Yang Yu. TMLR 2026.
+
+* [On a Faster R-Linear Convergence Rate of the Barzilai-Borwein Method](https://arxiv.org/abs/2101.00205), Dawei Li, Ruoyu Sun. JCM (Journal of Computational Mathematics) 2026. 
 
 * [Teaching Language Models to Reason with Tools](https://arxiv.org/abs/2510.20342), Chengpeng Li, Zhengyang Tang, Ziniu Li, Mingfeng Xue, Keqin Bao, Tian Ding, Ruoyu Sun, Benyou Wang, Xiang Wang, Junyang Lin, Dayiheng Liu. NeurIPS 2025.
 
@@ -181,8 +183,6 @@ Qingyu Han $^+$, Linxin Yang $^+$, Qian Chen, Xiang Zhou, Dong Zhang, Akang Wang
 * [When Expressivity Meets Trainability: Fewer than  Neurons Can Work](https://papers.nips.cc/paper/2021/file/4c7a167bb329bd92580a99ce422d6fa6-Paper.pdf) Jiawei Zhang*, Yushun Zhang*, Mingyi Hong, Ruoyu Sun, Zhi-Quan Luo. NeurIPS 2021.
 
 * [Spurious Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413) Tian Ding, Dawei Li, Ruoyu Sun. Accepted to MOR (Mathematics of Operations Research) 2021.
-
-* [On a Faster $R$-Linear Convergence Rate of the Barzilai-Borwein Method](https://arxiv.org/abs/2101.00205), Dawei Li, Ruoyu Sun. JCM.
 
 * [Understanding Limitation of Two Symmeterized Orders by Worst-case Complexity](https://arxiv.org/abs/1910.04366), Peijun Xiao, Zhisheng Xiao, Ruoyu Sun. Accepted to SIAM Journal on Optimization, 2021. 
 
