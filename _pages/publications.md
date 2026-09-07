@@ -109,7 +109,9 @@ $^+$: co-first author; $^{\*}$: corresponding author
 
 * [Review of Reinforcement Learning for Large Language Models: Formulations, Algorithms, and Opportunities](http://www.liziniu.org/docs/RL4LLM_Survey.pdf), Ziniu Li, Pengyuan Wang, Tian Xu, Tian Ding, Ruoyu Sun, Yang Yu. TMLR 2026.
 
-* [On a Faster R-Linear Convergence Rate of the Barzilai-Borwein Method](https://arxiv.org/abs/2101.00205), Dawei Li, Ruoyu Sun. JCM (Journal of Computational Mathematics) 2026. 
+* [On a Faster R-Linear Convergence Rate of the Barzilai-Borwein Method](https://arxiv.org/abs/2101.00205), Dawei Li, Ruoyu Sun. JCM (Journal of Computational Mathematics) 2026.
+
+* [Adversarial Rademacher Complexity of Deep Neural Networks](https://arxiv.org/abs/2211.14966), Jiancong Xiao, Yanbo Fan$^{\*}$ , Ruoyu Sun$^{\*}$ , Zhi-Quan Luo. Accepted to JMLR (Journal of Machine Learning Research). 
 
 * [Teaching Language Models to Reason with Tools](https://arxiv.org/abs/2510.20342), Chengpeng Li, Zhengyang Tang, Ziniu Li, Mingfeng Xue, Keqin Bao, Tian Ding, Ruoyu Sun, Benyou Wang, Xiang Wang, Junyang Lin, Dayiheng Liu$^{\*}$ . NeurIPS 2025.
 
@@ -161,8 +163,6 @@ Jiancong Xiao, Ruoyu Sun, Zhi-Quan Luo. NeurIPS 2023. <br />
 Qingyu Han $^+$, Linxin Yang $^+$, Qian Chen, Xiang Zhou, Dong Zhang, Akang Wang $^{\*}$, Ruoyu Sun $^{\*}$, Xiaodong Luo. ICLR 2023. <br />
 
 * [NTK-SAP: Improving neural network pruning by aligning training dynamics](https://openreview.net/forum?id=-5EWhW_4qWP) Yite Wang, Dawei Li, Ruoyu Sun. ICLR 2023
-
-* [Adversarial Rademacher Complexity of Deep Neural Networks](https://arxiv.org/abs/2211.14966), Jiancong Xiao, Yanbo Fan$^{\*}$ , Ruoyu Sun$^{\*}$ , Zhi-Quan Luo. Accepted to JMLR (Journal of Machine Learning Research).
 
 *	[Adam Can Converge Without Any Modiﬁcation on Update Rules](https://arxiv.org/abs/2208.09632v1#:~:text=Under%20an%20extra%20condition%20%28strong%20growth%20condition%29%2C%20Adam,hyperparameters%20without%20any%20modification%20on%20its%20update%20rules.), Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun $^*$, Zhi-Quan Luo, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
 
