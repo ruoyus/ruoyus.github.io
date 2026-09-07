@@ -71,9 +71,39 @@ When Do Neural Networks Have No Bad Local Minima? (for ICML and NeurIPS'19 paper
 
 PREPRINTS
 ======
+* [Congruence Decomposition with Neural Block Solvers for Large-Scale PCI Assignment](https://arxiv.org/abs/2608.21485), Yeqing Qiu, Chengpiao Huang, Ye Xue, Akang Wang, Fan Xu, Zhipeng Jiang, Dong Zhang, Ruoyu Sun, Qingjiang Shi, Zhi-Quan Luo.
+
+* [SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD](https://arxiv.org/abs/2607.20145), Dongfang Li, Xiaodong Luo, Ruoyu Sun, et al..
+
+* [QK-Normed MLA: QK normalization without full key caching](https://arxiv.org/abs/2606.16310), Yizhou Han, Yao Zhao, Jun Zhou, Longfei Li, Ruoyu Sun.
+
 * [PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training](https://arxiv.org/abs/2606.06470), Senmiao Wang, Tiantian Fang, Haoran Zhang, Yushun Zhang, Kunxiang Zhao, Alex Schwing, Ruoyu Sun. [[slides](/files/Slides_PC_layer_BIRS_2026.pdf)]
 
 * [A Geometric Characterization of the Stationary Plateau for Two-Layer Neural Networks](https://arxiv.org/abs/2606.04327), Tian Ding, Dawei Li, Ruoyu Sun.
+
+* [ORGEval: Graph-Theoretic Evaluation of LLMs in Optimization Modeling](https://arxiv.org/abs/2510.27610), Zhuohan Wang, Ziwei Zhu, Ziniu Li, Congliang Chen, Yizhou Han, Yufeng Lin, Zhihang Lin, Angyang Gu, Xinglin Hu, Ruoyu Sun, Tian Ding.
+
+* [A Model Can Help Itself: Reward-Free Self-Training for LLM Reasoning](https://arxiv.org/abs/2510.18814), Mengqi Li, Lei Zhao, Anthony Man-Cho So, Ruoyu Sun, Xiao Li.
+
+* [Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation](https://arxiv.org/abs/2509.25849), Ziniu Li, Congliang Chen, Tianyun Yang, Tian Ding, Ruoyu Sun, Ge Zhang, Wenhao Huang, Zhi-Quan Luo.
+
+* [Feature Augmentation of GNNs for ILPs: Local Uniqueness Suffices](https://arxiv.org/abs/2509.21000), Qingyu Han, Qian Li, Linxin Yang, Qian Chen, Qingjiang Shi, Ruoyu Sun.
+
+* [Bridging Formal Language with Chain-of-Thought Reasoning to Geometry Problem Solving](https://arxiv.org/abs/2508.09099), Tianyun Yang, Yunwen Li, Ziniu Li, Zhihang Lin, Ruoyu Sun, Tian Ding.
+
+* [CoRT: Code-integrated Reasoning within Thinking](https://arxiv.org/abs/2506.09820), Chengpeng Li, Zhengyang Tang, Ziniu Li, Mingfeng Xue, Keqin Bao, Tian Ding, Ruoyu Sun, Benyou Wang, Xiang Wang, Junyang Lin, Dayiheng Liu.
+
+* [Towards Quantifying the Hessian Structure of Neural Networks](https://arxiv.org/abs/2505.02809), Zhaorui Dong, Yushun Zhang, Jianfeng Yao, Ruoyu Sun.
+
+* [RealCritic: Towards Effectiveness-Driven Evaluation of Language Model Critiques](https://arxiv.org/abs/2501.14492), Zhengyang Tang, Ziniu Li, Zhenyang Xiao, Tian Ding, Ruoyu Sun, Benyou Wang, Dayiheng Liu, Fei Huang, Tianyu Liu, Bowen Yu, Junyang Lin.
+
+* [An Efficient Unsupervised Framework for Convex Quadratic Programs via Deep Unrolling](https://arxiv.org/abs/2412.01051), Linxin Yang, Bingheng Li, Tian Ding, Jianghua Wu, Akang Wang, Yuyi Wang, Jiliang Tang, Ruoyu Sun, Xiaodong Luo.
+
+* [SymILO: A Symmetry-Aware Learning Framework for Integer Linear Optimization](https://arxiv.org/abs/2409.19678), Qian Chen, Tianjian Zhang, Linxin Yang, Qingyu Han, Akang Wang, Ruoyu Sun, Xiaodong Luo, Tsung-Hui Chang.
+
+* [Invariant Layers for Graphs with Nodes of Different Types](https://arxiv.org/abs/2302.13551), Dmitry Rybin, Ruoyu Sun, Zhi-Quan Luo.
+
+* [Adversarial Rademacher Complexity of Deep Neural Networks](https://arxiv.org/abs/2211.14966), Jiancong Xiao, Yanbo Fan, Ruoyu Sun, Zhi-Quan Luo.
 
 * [DEED: A General Quantization Scheme for Communication Efficiency in Bits](https://arxiv.org/abs/2006.11401), Tian Ye, Peijun Xiao, Ruoyu Sun.
 * [Achieving Small Test Error in Mildly Overparameterized Neural Networks](https://arxiv.org/abs/2104.11895) S Liang, R Sun, R Srikant.
@@ -86,6 +116,10 @@ $^+$: co-first author; $^{\*}$: corresponding author
 * [VCORE: Variance-Controlled Optimization-based Reweighting for Chain-of-Thought Supervision](https://arxiv.org/abs/2510.27462), Xuan Gong, Senmiao Wang, Hanbo Huang, Ruoyu Sun, Shiyu Liang. Accepted to ACL 2026. 
 
 * [Rethinking Data Mixture for Large Language Models: A Comprehensive Survey and New Perspectives](https://arxiv.org/abs/2505.21598), Yajiao Liu, Congliang Chen, Junchi Yang, Ruoyu Sun. Findings of EACL 2026. 
+
+* [Teaching Language Models to Reason with Tools](https://arxiv.org/abs/2510.20342), Chengpeng Li, Zhengyang Tang, Ziniu Li, Mingfeng Xue, Keqin Bao, Tian Ding, Ruoyu Sun, Benyou Wang, Xiang Wang, Junyang Lin, Dayiheng Liu. NeurIPS 2025.
+
+* [A Middle Path for On-Premises LLM Deployment: Preserving Privacy Without Sacrificing Model Confidentiality](https://arxiv.org/abs/2410.11182), Hanbo Huang, Yihan Li, Bowen Jiang, Bo Jiang, Lin Liu, Ruoyu Sun, Zhuotao Liu, Shiyu Liang. EMNLP 2025.
 
 * [Second Language (Arabic) Acquisition of LLMs via Progressive Vocabulary Expansion](https://arxiv.org/abs/2412.12310), Jianqing Zhu, Huang Huang, Zhihang Lin, Juhao Liang, Zhengyang Tang, Khalid Almubarak, Abdulmohsen Alharthi, Bang An, Juncai He, Xiangbo Wu, Fei Yu, Junying Chen, Zhuoheng Ma, Yuhao Du, He Zhang, Emad A. Alghamdi, Lian Zhang, Ruoyu Sun, Haizhou Li, Benyou Wang, Jinchao Xu. ACL 2025. 
 
@@ -149,6 +183,8 @@ Qingyu Han $^+$, Linxin Yang $^+$, Qian Chen, Xiang Zhou, Dong Zhang, Akang Wang
 * [When Expressivity Meets Trainability: Fewer than  Neurons Can Work](https://papers.nips.cc/paper/2021/file/4c7a167bb329bd92580a99ce422d6fa6-Paper.pdf) Jiawei Zhang*, Yushun Zhang*, Mingyi Hong, Ruoyu Sun, Zhi-Quan Luo. NeurIPS 2021.
 
 * [Spurious Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413) Tian Ding, Dawei Li, Ruoyu Sun. Accepted to MOR (Mathematics of Operations Research) 2021.
+
+* [On a Faster $R$-Linear Convergence Rate of the Barzilai-Borwein Method](https://arxiv.org/abs/2101.00205), Dawei Li, Ruoyu Sun. JCM.
 
 * [Understanding Limitation of Two Symmeterized Orders by Worst-case Complexity](https://arxiv.org/abs/1910.04366), Peijun Xiao, Zhisheng Xiao, Ruoyu Sun. Accepted to SIAM Journal on Optimization, 2021. 
 
