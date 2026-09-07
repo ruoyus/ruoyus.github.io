@@ -31,8 +31,6 @@ author_profile: true
 * [Preserving Diversity in Supervised Fine-Tuning of Large Language Models](https://arxiv.org/abs/2408.16673), Ziniu Li, Congliang Chen, Tian Xu, Zeyu Qin, Jiancong Xiao, Zhi-Quan Luo, Ruoyu Sun. ICLR 2025. 
 
 # Selected Works
-* [Adversarial Rademacher Complexity of Deep Neural Networks](https://arxiv.org/abs/2211.14966), Jiancong Xiao, Yanbo Fan, Ruoyu Sun, Zhi-Quan Luo. JMLR.
-
 *	[Adam Can Converge Without Any Modiﬁcation on Update Rules](https://arxiv.org/abs/2208.09632v1#:~:text=Under%20an%20extra%20condition%20%28strong%20growth%20condition%29%2C%20Adam,hyperparameters%20without%20any%20modification%20on%20its%20update%20rules.), Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun, Zhi-Quan Luo, NeurIPS 2022 **spotlight**.
 
 * [RMSprop converges with proper hyper-parameter](https://openreview.net/forum?id=3UDSdyIcBDA)
@@ -163,6 +161,8 @@ Jiancong Xiao, Ruoyu Sun, Zhi-Quan Luo. NeurIPS 2023. <br />
 Qingyu Han $^+$, Linxin Yang $^+$, Qian Chen, Xiang Zhou, Dong Zhang, Akang Wang $^{\*}$, Ruoyu Sun $^{\*}$, Xiaodong Luo. ICLR 2023. <br />
 
 * [NTK-SAP: Improving neural network pruning by aligning training dynamics](https://openreview.net/forum?id=-5EWhW_4qWP) Yite Wang, Dawei Li, Ruoyu Sun. ICLR 2023
+
+* [Adversarial Rademacher Complexity of Deep Neural Networks](https://arxiv.org/abs/2211.14966), Jiancong Xiao, Yanbo Fan, Ruoyu Sun, Zhi-Quan Luo. Accepted to JMLR (Journal of Machine Learning Research).
 
 *	[Adam Can Converge Without Any Modiﬁcation on Update Rules](https://arxiv.org/abs/2208.09632v1#:~:text=Under%20an%20extra%20condition%20%28strong%20growth%20condition%29%2C%20Adam,hyperparameters%20without%20any%20modification%20on%20its%20update%20rules.), Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun $^*$, Zhi-Quan Luo, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
 
