@@ -110,9 +110,7 @@ News
 * Nov 2018: I organized a session on non-convex optimization for machine learning at INFORMS annual meeting
 * Oct 2018: our paper that says adding a neuron can eliminate all bad local minima will appear at NIPS 2018
 
-Selected Talks
-======
-* [SIAM Conference on Optimization (OP26) Plenary Talk, Edinburgh, UK, June 2026](/files/Slides_SIAM_OP26_Edinburgh_2026.pdf)
+For slides of selected talks, see the [Talks](/talks/) page.
 
 Professional Services
 ======
