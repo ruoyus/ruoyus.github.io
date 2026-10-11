@@ -57,18 +57,6 @@ IEEE Transaction on Information Theory 2016; a shorter version has appeared at F
 Honorable mention, 2015 INFORMS Optimization Society student paper prize.([prize page](https://www.informs.org/Archive/Community/Optimization-Society/Optimization-Society-Prizes/Student-Paper-Prize/2015))
 
 
-TALK SLIDES
-======
-Optimization for neural networks: plenary talk at SIAM Conference on Optimization (OP26), Edinburgh, 2026 [[slides](/files/Slides_SIAM_OP26_plenary_2026.pdf)]
-
-Towards Better Global landscape of GANs: How 2 Lines of Code Change Makes Difference [[slides](
-https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscape_2020.pdf)]
-
-Over-parameterized networks have no bad basins [[slides](https://www.dropbox.com/s/0a4bnsnwp7v0a47/NoBadBasin_Ruoyu%20talk.pdf?dl=0)]
-
-When Do Neural Networks Have No Bad Local Minima? (for ICML and NeurIPS'19 papers) [[slides](https://www.dropbox.com/s/zx2gnk7yb5hv2nk/RuoyuSun_andscape_public.pdf?dl=0)]
-
-
 PREPRINTS
 ======
 * [Congruence Decomposition with Neural Block Solvers for Large-Scale PCI Assignment](https://arxiv.org/abs/2608.21485), Yeqing Qiu, Chengpiao Huang, Ye Xue, Akang Wang, Fan Xu, Zhipeng Jiang, Dong Zhang, Ruoyu Sun, Qingjiang Shi, Zhi-Quan Luo.
